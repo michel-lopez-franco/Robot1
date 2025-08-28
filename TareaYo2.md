@@ -1,3 +1,3 @@
 # La Tarea 2 es :
 
-De nuevo otro
+La tarea 2 es.
