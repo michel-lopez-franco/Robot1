@@ -1,5 +1,5 @@
 
-
+```
 📁 Estructura recomendada:
 text
 repo-del-profesor/
@@ -13,6 +13,7 @@ repo-del-profesor/
     │   └── proyecto-final/
     ├── estudiante-2/
     └── estudiante-3/
+```
 🔄 Flujo de trabajo paso a paso:
 1. Configuración inicial del profesor:
 bash
